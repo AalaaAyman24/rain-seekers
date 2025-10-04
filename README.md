@@ -205,6 +205,9 @@ Developed by **Team RainSeekers** for the **NASA Space Apps Hackathon 2025**:
 </table>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aya-Abdellatif/rain-seekers/main/Team%20Rain%20Seekers.jpg" width="700" alt="Team RainSeekers Group Photo"/>
+</p>
 
 ## 📜 License
 
